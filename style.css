@@ -1,5 +1,9 @@
+:root {
+    --x: 10px;
+}
+
 header {
-    background-color: red;
+    background-color: redd;
 }
 
 main {
@@ -8,4 +12,8 @@ main {
 
 nav {
     color: cyan;
+}
+
+footer {
+    font-size: 10px;
 }
